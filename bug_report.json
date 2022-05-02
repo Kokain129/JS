@@ -1,1 +1,6 @@
-
+{
+  "title":"Issue QA-1",
+  "Summary":"The token is not accepted by GIT after providing it via Git Bash",
+  "STR":"Step1, Step2, Step3",
+  "ER":"The token is accepted after copy-pasting it from Git"
+}
