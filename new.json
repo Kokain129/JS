@@ -1,2 +1,8 @@
-const main = function() {
-	console.log('JSON file')}
+{	
+	"name":"Andromeda Galaz",
+	"age":129,
+	"animals q-ty":0,
+	"desired salart": 10000
+
+
+}
